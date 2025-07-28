@@ -8,16 +8,31 @@ This repository contains my personal solutions to LeetCode problems, organized b
 - ☕ Java
 
 ## 📂 Folder Structure
-Working
+```bash
+LeetCode/
+├── Easy/
+│   ├── LongestCommonPrefix_14.cpp
+│   ├── RemoveDuplicatesFromSortedArray_26.cpp
+│   └── ...
+├── Medium/
+│   ├── CountPrimes_204.cpp
+│   └── ReverseInteger_7.cpp
+├── Hard/
+│   ├── MergeKSortedLists_23.cpp
+│   └── MedianOfTwoSortedArrays_4.java
+├── Contests/
+│   ├── Biweekly-110/
+│   │   ├── Problem_1234.cpp
+│   │   └── ...
+│   └── Weekly-400/
+│       └── Problem_5678.java
+└── README.md
+```
 
 
 ## ✅ Progress
 
-| Difficulty | Problems Solved |
-|------------|-----------------|
-| Easy       | 10              |
-| Medium     | 09              |
-| Hard       | 02              |
+![LeetCode Stats](https://leetcard.jacoblin.cool/the_adee?theme=light&font=Fredoka&ext=heatmap)
 
 
 ## 🧠 Topics Covered
