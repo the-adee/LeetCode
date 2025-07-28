@@ -7,6 +7,21 @@ This repository contains my personal solutions to LeetCode problems, organized b
 - 🟦 C++
 - ☕ Java
 
+## ✅ Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/the_adee?theme=light&font=Fredoka&ext=heatmap)](https://leetcode.com/u/the_adee/)
+
+## 🧠 Topics Covered
+
+- Arrays
+- Sorting
+- Linked Lists
+- Hash Table
+- Binary Search
+- Recursion
+- Dynamic Programming
+- ...and more
+
 ## 📂 Folder Structure
 ```bash
 LeetCode/
@@ -28,23 +43,6 @@ LeetCode/
 │       └── Problem_5678.java
 └── README.md
 ```
-
-
-## ✅ Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/the_adee?theme=light&font=Fredoka&ext=heatmap)
-
-
-## 🧠 Topics Covered
-
-- Arrays
-- Sorting
-- Linked Lists
-- Hash Table
-- Binary Search
-- Recursion
-- Dynamic Programming
-- ...and more
 
 ## 📌 Notes
 
