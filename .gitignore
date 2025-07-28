@@ -1,3 +1,8 @@
 
 # folder that contain the executable files of the my Code.
 Output
+
+# my vs-code settings
+.vscode
+*.exe
+**/main.exe
